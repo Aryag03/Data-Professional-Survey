@@ -18,7 +18,9 @@ It offers insights into salary trends, work-life balance, preferred programming 
 
 📈 Clean, interactive visuals: Easy-to-interpret charts for fast decision-making
 
+
 3. This Dashboard was built using the following tools :
+
 • Power BI : for data visualization and dashboard creation
 
 • Microsoft Excel : for data cleaning and preprocessing
@@ -27,7 +29,9 @@ It offers insights into salary trends, work-life balance, preferred programming 
 
 • File Format : .pbix for development and .png for dashboard preview
 
+
 4. 🎯Goals :
+
 • To analyze and summarize responses from a survey of data professionals across various roles and countries
 
 • To identify trends in salary, job roles, gender distribution, and preferred programming languages
