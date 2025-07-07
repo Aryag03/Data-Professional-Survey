@@ -37,4 +37,4 @@ It offers insights into salary trends, work-life balance, preferred programming 
 
 • To serve as a portfolio project showcasing end-to-end dashboard development
 
-![Dashboard Preview].(https://github.com/Aryag03/Data-Professional-Survey/blob/main/Survey%20Dashboard.png).
+![Dashboard Preview](.https://github.com/Aryag03/Data-Professional-Survey/blob/main/Survey%20Dashboard.png)
