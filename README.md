@@ -18,7 +18,6 @@ It offers insights into salary trends, work-life balance, preferred programming 
 
 📈 Clean, interactive visuals: Easy-to-interpret charts for fast decision-making
 
-
 3. This Dashboard was built using the following tools :
 
 • Power BI : for data visualization and dashboard creation
@@ -28,7 +27,6 @@ It offers insights into salary trends, work-life balance, preferred programming 
 • Power Query : for data transformation
 
 • File Format : .pbix for development and .png for dashboard preview
-
 
 4. 🎯Goals :
 
