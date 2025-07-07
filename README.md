@@ -6,13 +6,18 @@ It offers insights into salary trends, work-life balance, preferred programming 
 
 2. Features :
 🌏 Geographic Insights: Treemap showing the distribution of survey participants by country
+
 💵 Salary Analysis: Average salary comparison across job roles and by gender
+
 ⚖️ Work-Life Balance & Salary Satisfaction Gauges: Visual scores out of 10
+
 👩‍💻 Programming Language Preferences: Bar chart showing favorite languages per role
+
 🧍‍♀️ Demographics Summary: Total survey count and average age of participants
+
 📈 Clean, interactive visuals: Easy-to-interpret charts for fast decision-making
 
-3. This Dashboard was built using the following tools :
+4. This Dashboard was built using the following tools :
 • Power BI : for data visualization and dashboard creation
 
 • Microsoft Excel : for data cleaning and preprocessing
@@ -32,4 +37,4 @@ It offers insights into salary trends, work-life balance, preferred programming 
 
 • To serve as a portfolio project showcasing end-to-end dashboard development
 
-Dashboard Preview- (https://github.com/Aryag03/Data-Professional-Survey/blob/main/Survey%20Dashboard.png)
+Dashboard Preview- !(https://github.com/Aryag03/Data-Professional-Survey/blob/main/Survey%20Dashboard.png).
