@@ -4,7 +4,7 @@
 This dashboard provides a visual breakdown of a survey conducted among 630 data professionals across various countries  and job roles.
 It offers insights into salary trends, work-life balance, preferred programming languages, and more helping us understand the current landscape of the data industry.
 
-2. Features :
+2.Features :
 🌏 Geographic Insights: Treemap showing the distribution of survey participants by country
 
 💵 Salary Analysis: Average salary comparison across job roles and by gender
